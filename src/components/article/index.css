@@ -1,0 +1,8 @@
+img {
+    width: 370px;
+    height: 250px;
+}
+
+.mydiv {
+    display: flex;
+}
